@@ -5,6 +5,7 @@
 <img alt="加藤純一" width="81.7%" src="./assets/junichi-kato-kingdom.gif">
 </a>
 </div>
+
 ## ℹ️ INFORMATION
 <a href="https://discord.com/users/885153350931333151"><img alt="Discord Presence" align="right" src="https://lanyard.kyrie25.me/api/885153350931333151?waveColor=1288F8&waveSpotifyColor=1DB954&gradient=1288F8-7CD0FF-00D6FA&imgStyle=square&imgBorderRadius=18px"></a>
 
@@ -32,4 +33,4 @@
 [![YouTube](https://img.shields.io/badge/null_base-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@null_base)
 [![Twitch](https://img.shields.io/badge/null_base-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/null_x0o0x)
 [![VRChat](https://img.shields.io/badge/null_x0o0x%20%E3%80%90%E3%81%AC%E3%82%8B%E3%80%91-%23000000?style=for-the-badge&logo=livechat&logoColor=white)](https://vrchat.com/home/user/usr_1d67de93-8afb-48dc-af7d-da7a33834f52)
-![Moe-Counter](https://count.getloli.com/get/@null?theme=rule34)
+<img alt="Moe-Counter" align="center" src="https://count.getloli.com/get/@null?theme=rule34">
