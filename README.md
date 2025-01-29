@@ -19,11 +19,14 @@
 - 🌸 ANIME
 - 📖 VISUAL NOVEL
 - 🔵 BLUE ARCHIVE
+- 🎧 HARDCORE TANO*C
 
 ## 🛠️ LANGUAGES & TOOLS
 
 ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,9 +37,7 @@
 ![C++](https://img.shields.io/badge/c%2B%2B-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -66,7 +67,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-
 ## 👥 SOCIAL
 
 <a href="https://anilist.co/user/nullbase/"><img width="500" alt="AniList" align="right" src="https://img.anili.st/user/6162782"></a>
@@ -80,6 +80,17 @@
 [![Twitch](https://img.shields.io/badge/null_base-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/null_x0o0x)
 
 [![VRChat](https://img.shields.io/badge/null_x0o0x%20%E3%80%90%E3%81%AC%E3%82%8B%E3%80%91-%23000000?style=for-the-badge&logo=livechat&logoColor=white)](https://vrchat.com/home/user/usr_1d67de93-8afb-48dc-af7d-da7a33834f52)
+
+## 📊 STATS
+
+<div style="display: flex; gap: 20px;">
+
+[![null_base's GitHub stats](https://github-readme-stats.null-base.com/api/top-langs/?username=null-base&count_private=true&layout=donut&hide=ShaderLab,HLSL&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+[![null_base's WakaTime stats](https://github-readme-stats.null-base.com/api/wakatime?username=null_base&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <h2>😊 Thanks for reading !!!</h2>
 <div align="center">
 <img alt="Moe-Counter" src="https://count.getloli.com/get/@null?theme=rule34">
